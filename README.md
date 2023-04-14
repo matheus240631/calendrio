@@ -1,2 +1,4 @@
 # calendrio
-Repositório criado para a disciplina de Linguagem de Programação I para realização da atividade de criação de calendário iterativo.
+atividade avaliativa III da disciplina de programaçao web 1
+
+matheus favoreto de souza
